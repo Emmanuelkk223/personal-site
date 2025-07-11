@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.coverage
+.tox/
+.eggs/
+
+# Virtual environment
+.env/
+venv/
+env/
+
+# Database files
+db.sqlite3
+
+# Django-specific files
+*.log
+*.pot
+local_settings.py
+media/
+static/
+
+# IDE-specific files (e.g., PyCharm)
+.idea/
+*.iws
+
+# Operating System files
+.DS_Store
+Thumbs.db
